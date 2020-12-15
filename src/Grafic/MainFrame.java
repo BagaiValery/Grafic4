@@ -20,6 +20,7 @@ import javax.swing.JOptionPane;
 import javax.swing.event.MenuEvent;
 import javax.swing.event.MenuListener;
 
+@SuppressWarnings("serial")
 public class MainFrame extends JFrame {
 
 	// Начальные размеры окна приложения
